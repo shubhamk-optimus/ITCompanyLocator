@@ -1,0 +1,6 @@
+c:\users\sysadmin\source\repos\ITCompanyLocator\ITCompanyLocator.DataAccessLayer\obj\Debug\ITCompanyLocator.DataAccessLayer.csprojResolveAssemblyReference.cache
+c:\users\sysadmin\source\repos\ITCompanyLocator\ITCompanyLocator.DataAccessLayer\obj\Debug\ITCompanyLocator.DataAccessLayer.csproj.CoreCompileInputs.cache
+c:\users\sysadmin\source\repos\ITCompanyLocator\ITCompanyLocator.DataAccessLayer\bin\Debug\ITCompanyLocator.DataAccessLayer.dll
+c:\users\sysadmin\source\repos\ITCompanyLocator\ITCompanyLocator.DataAccessLayer\bin\Debug\ITCompanyLocator.DataAccessLayer.pdb
+c:\users\sysadmin\source\repos\ITCompanyLocator\ITCompanyLocator.DataAccessLayer\obj\Debug\ITCompanyLocator.DataAccessLayer.dll
+c:\users\sysadmin\source\repos\ITCompanyLocator\ITCompanyLocator.DataAccessLayer\obj\Debug\ITCompanyLocator.DataAccessLayer.pdb

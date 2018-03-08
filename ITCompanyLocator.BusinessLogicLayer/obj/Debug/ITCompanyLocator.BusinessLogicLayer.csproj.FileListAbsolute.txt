@@ -1,0 +1,9 @@
+c:\users\sysadmin\source\repos\ITCompanyLocator\ITCompanyLocator.BusinessLogicLayer\obj\Debug\ITCompanyLocator.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+c:\users\sysadmin\source\repos\ITCompanyLocator\ITCompanyLocator.BusinessLogicLayer\bin\Debug\ITCompanyLocator.BusinessLogicLayer.dll
+c:\users\sysadmin\source\repos\ITCompanyLocator\ITCompanyLocator.BusinessLogicLayer\bin\Debug\ITCompanyLocator.BusinessLogicLayer.pdb
+c:\users\sysadmin\source\repos\ITCompanyLocator\ITCompanyLocator.BusinessLogicLayer\bin\Debug\ITCompanyLocator.DataAccessLayer.dll
+c:\users\sysadmin\source\repos\ITCompanyLocator\ITCompanyLocator.BusinessLogicLayer\bin\Debug\ITCompanyLocator.DataAccessLayer.pdb
+c:\users\sysadmin\source\repos\ITCompanyLocator\ITCompanyLocator.BusinessLogicLayer\obj\Debug\ITCompanyLocator.BusinessLogicLayer.csprojResolveAssemblyReference.cache
+c:\users\sysadmin\source\repos\ITCompanyLocator\ITCompanyLocator.BusinessLogicLayer\obj\Debug\ITCompanyLocator.BusinessLogicLayer.csproj.CopyComplete
+c:\users\sysadmin\source\repos\ITCompanyLocator\ITCompanyLocator.BusinessLogicLayer\obj\Debug\ITCompanyLocator.BusinessLogicLayer.dll
+c:\users\sysadmin\source\repos\ITCompanyLocator\ITCompanyLocator.BusinessLogicLayer\obj\Debug\ITCompanyLocator.BusinessLogicLayer.pdb
